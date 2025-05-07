@@ -1,4 +1,4 @@
 # AyED
-Alumno: Santiago Agustín Giménez.
-
+Nombre: Santiago Agustín.
+Apellido: Giménez.
 Comisión: K1202.
