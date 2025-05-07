@@ -1,4 +1,3 @@
-# AyED
 Nombre: Santiago Agustín.
 
 Apellido: Giménez.
